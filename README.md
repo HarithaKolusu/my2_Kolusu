@@ -14,3 +14,13 @@ Vijayawada is a place known for **Historical Temples and Caves**. Vijayawada is 
 * Apollo Fish
 
 [Link](MyStats.md)
+******
+In this section i am  going to Create a table at least 4 kinds of sports that i would recommend someone try.Below table address the value of the sport and hours have to spend.
+
+| Name of Sport|Reason i recommend |Hours in an average week |
+|-----|-----|-----:|
+| Badminton | Badminton is great for improving agility and hand-eye coordination | 6 Hours |
+| Basketball | Basketball all about teamwork,dribbling,shooting | 5 Hours |
+| Volleyball | Volleyball is amazing  to have fun, stay active | 7 Hours |
+| Gymnastics | Gymnastics combines strength,flexibility and grace | 9 Hours |
+
