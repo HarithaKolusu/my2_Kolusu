@@ -26,6 +26,35 @@ In this section i am  going to Create a table at least 4 kinds of sports that i 
 ******
 # Scientists Quotes that i like the most 
  > The greatest enemy of knowledge is not ignorance,it is illusion of knowledge - *Stephen Hawking*
- 
+
  > The important is not to stop questioning.Curiosity has its own reason for existing - *Albert Einstein*
+******
+# Code Fencing
+> A Complete Guide to Flexbox - JavaScript <br>
+[answer displayed in stackover flow](https://stackoverflow.com/questions/44623821/how-to-use-flexbox)
+```
+<div class="outer">
+  <div class="inner"></div>
+  <div class="inner"></div>
+  <div class="inner">
+    <div class="deeper">
+      <div class="newLineContent"></div>
+      <div class="newLineContent"></div>
+      <div class="newLineContent"></div>
+    </div>
+  </div>
+</div>
+<div class="outer">
+  <div class="inner"></div>
+  <div class="inner"></div>
+  <div class="inner">
+    <div class="deeper">
+      <div class="newLineContent"></div>
+      <div class="newLineContent"></div>
+      <div class="newLineContent"></div>
+    </div>
+  </div>
+</div>
+```
+[code snippet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
