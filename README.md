@@ -23,4 +23,8 @@ In this section i am  going to Create a table at least 4 kinds of sports that i 
 | Basketball | Basketball all about teamwork,dribbling,shooting | 5 Hours |
 | Volleyball | Volleyball is amazing  to have fun, stay active | 7 Hours |
 | Gymnastics | Gymnastics combines strength,flexibility and grace | 9 Hours |
+******
+# Scientists Quotes that i like the most 
+ > The greatest enemy of knowledge is not ignorance,it is illusion of knowledge - *Stephen Hawking*
+ > The important is not to stop questioning.Curiosity has its own reason for existing - *Albert Einstein*
 
